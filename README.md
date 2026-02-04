@@ -113,9 +113,9 @@ pip install -r requirements.txt && python app.py
 
 | Company | Role | Impact |
 |---------|------|--------|
-| **Apple** | Senior Data Scientist | GenAI systems for on-device AI |
+| **Apple** | Senior Data Scientist | GenAI systems for Customer Support |
 | **Walmart** | Principal Data Scientist | $50M+ revenue optimization via ML |
-| **IBM** | Data Scientist | Enterprise AI solutions |
+| **IBM** | Data Scientist | Enterprise AI solutions for Healthcare|
 
 ### Key Achievements
 - 🎯 **$50M+** business impact across roles
@@ -161,7 +161,6 @@ I'm always interested in:
 - 🤝 Research collaborations in GenAI/CV/Healthcare
 - 💼 Senior IC Data Scientist / Applied Research roles
 - 🧪 Open source projects with real-world impact
-- 🎯 ₹50-80 LPA (India) | $45+/hr (US Remote)
 
 **📧 vrc7.ds@gmail.com** | **[LinkedIn](https://linkedin.com/in/vrc7)**
 
