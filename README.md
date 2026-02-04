@@ -179,4 +179,3 @@ I'm always interested in:
 
 ---
 
-*Last updated: 2026-02-04 by Dr. Scotch 🥃*
