@@ -93,19 +93,6 @@ pip install -r requirements.txt && python app.py
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vraul92&show_icons=true&theme=dracula&hide_border=true&count_private=true)](https://github.com/vraul92)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vraul92&layout=compact&theme=dracula&hide_border=true)](https://github.com/vraul92)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vraul92&theme=dracula&hide_border=true)](https://github.com/vraul92)
-
-</div>
 
 ---
 
