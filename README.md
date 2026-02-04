@@ -115,7 +115,7 @@ pip install -r requirements.txt && python app.py
 |---------|------|--------|
 | **Apple** | Senior Data Scientist | GenAI systems for on-device AI |
 | **Walmart** | Principal Data Scientist | $50M+ revenue optimization via ML |
-| **IBM** | Data Scientist | Enterprise AI solutions |
+| **IBM** | Data Scientist | Enterprise AI solutions for Healthcare |
 
 ### Key Achievements
 - 🎯 **$50M+** business impact across roles
