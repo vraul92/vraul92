@@ -36,6 +36,7 @@ AWS (Bedrock, SageMaker, Lambda) • Docker • CI/CD • Model Monitoring • A
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| **[RLHF Portfolio](https://github.com/vraul92/rlhf-portfolio)** | **3 production-ready RLHF projects** - DPO, Constitutional AI, Full RLHF Pipeline (SFT→Reward→PPO). 5,000 lines, Docker, AWS deployment | PyTorch, TRL, LoRA, Gradio |
 | **[Telugu Agri SLM](https://github.com/vraul92/telugu-agri-slm)** | 110M param Telugu language model with custom tokenizer for agricultural Q&A | PyTorch, SentencePiece, FastAPI |
 | **[CV Defense Portfolio](https://github.com/vraul92/cv-defense-portfolio)** | 4,000 lines of production CV for defense: thermal, 3D, SLAM | Python, OpenCV, NumPy |
 | **[Medical SAM-CLIP](https://github.com/vraul92/medical-sam-clip)** | Zero-shot medical image segmentation | SAM, CLIP, PyTorch |
@@ -68,6 +69,7 @@ AWS (Bedrock, SageMaker, Lambda) • Docker • CI/CD • Model Monitoring • A
 
 ## 🌱 Currently Exploring
 
+- **RLHF & AI Alignment** - Preference optimization, reward modeling, constitutional AI
 - **Defense Foundation Models** - SAM for thermal/surveillance applications
 - **Edge AI** - On-device inference for defense hardware
 - **Visual Odometry** - GPS-denied navigation systems
