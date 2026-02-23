@@ -82,8 +82,7 @@ AWS (Bedrock, SageMaker, Lambda) • Docker • CI/CD • Model Monitoring • A
 
 I'm always interested in:
 - 🤝 **Research collaborations** in Defense AI, Computer Vision, Healthcare AI
-- 💼 **Senior IC roles** - Data Scientist / Applied Research / ML Engineer
-- 🎯 **₹50-80 LPA (India)** | **$45+/hr (US Remote)**
+- 💼 **Senior IC roles** - Data Scientist / Gen AI Engineer / Applied Research / ML Engineer
 
 **📧 vrc7.ds@gmail.com** | **[LinkedIn](https://linkedin.com/in/vrc7)**
 
